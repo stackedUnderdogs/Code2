@@ -5,7 +5,7 @@
 **Ziad:** sensor programming<br/>
 **Ben:** autonomous programming<br/>
 <br/>
-# How to get started:
+# How to get started
 <br/>
 1. Open the terminal of your own choice (git bash, hyper, etc)
 2. run cd *project directory*/FtcRobotController-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode
@@ -21,7 +21,7 @@
 6. do not edit a file that is not your own
 7. profit
 
-# Files:<br/>
+# Files<br/>
 **SensorClass.java**: Ziad<br/>
 **HelperOpmode.java**: Sakina<br/>
 **DriverControlOpMode.java**: Chidera<br/>
