@@ -19,7 +19,6 @@
     * run chmod +x cap.sh if you get the error "access denied"
 6. do not edit a file that is not your own
 7. profit
-
 # Files<br/>
 **SensorClass.java**: Ziad<br/>
 **HelperOpmode.java**: Sakina<br/>
