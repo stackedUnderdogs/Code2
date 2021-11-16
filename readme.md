@@ -15,6 +15,7 @@
     * git commit -m "*insert commit message here*"
     * git branch -M main
     * git push -u origin main
+    * git pull origin
     * protip: instead run ./cap.sh
     * run chmod +x cap.sh if you get the error "access denied"
 6. do not edit a file that is not your own
