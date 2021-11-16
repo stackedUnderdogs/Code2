@@ -9,3 +9,4 @@ git commit -m "$cmsg"
 git branch -M main
 #git remote add origin https://github.com/stackedUnderdogs/Code2.git/
 git push -u origin main
+git pull origin
