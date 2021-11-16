@@ -25,3 +25,6 @@
 **HelperOpmode.java**: Sakina<br/>
 **DriverControlOpMode.java**: Chidera<br/>
 **Everything else**: Ben<br/>
+# Note<br/>
+Please dont do any wierd complex git stuff<br/>
+I just figured out how to use this like an hour ago<br/>
