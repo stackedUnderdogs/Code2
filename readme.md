@@ -20,6 +20,7 @@
     * run chmod +x cap.sh if you get the error "access denied"
 6. do not edit a file that is not your own
 7. Install roadrunner by following the tutorial [Road runner installation method 2](https://learnroadrunner.com/installing.html#method-2-installing-rr-on-your-project)
+   * Dont copy files (they have already been copied)
 # Files<br/>
 **SensorClass.java**: Ziad<br/>
 **HelperOpmode.java**: Sakina<br/>
